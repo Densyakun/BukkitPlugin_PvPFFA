@@ -1,0 +1,6 @@
+lobby-world: world
+
+prize: 10.0
+lost: 5.0
+minus: false
+defaultkit: default
